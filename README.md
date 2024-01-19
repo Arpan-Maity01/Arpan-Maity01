@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpan-maity01" alt="arpan-maity01" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science and AI**
+- 🌱 I’m currently learning **Information Technology**
 
 - 📫 How to reach me **arpanmaity29sep@gmail.com**
 
